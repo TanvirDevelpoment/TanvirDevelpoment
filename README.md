@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanvirDevelpoment
 - 👀 I’m interested in Research and Developement
-- 🌱 I’m currently learning Laravel8,Vue3,React
+- 🌱 I’m currently working with,Codeigniter,Laravel,Jquery, and learning Vuejs, React
 - 💞️ I’m looking to collaborate on PHP and Javascript Based community
 - 📫 How to reach me tanvirhaque9051@gmail.com
 
