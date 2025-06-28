@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanvirDevelopment
-- 👀 I’m interested in Research and Developement
+- 👀 I’m interested in AI Technologies (Research and Developement)
 - 🌱 I’m currently working with,Codeigniter,Laravel,Jquery, and learning Vuejs, React
 - 💞️ I’m looking to collaborate on PHP and Javascript Based community
 - 📫 How to reach me tanvirhaque9051@gmail.com
